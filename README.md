@@ -5,7 +5,7 @@ Chat Simulator is a Java-based chat application that simulates sending and recei
 ## How to Run the System
 1. Clone the repository:
 bash
-git clone https://github.com/username/chat-simulator.git
+git clone https://github.com/nazinda/Simple-Chat-Messaging-Simulator.git
 2. Open the project in a Java IDE such as IntelliJ IDEA or Eclipse or VSCode.
 3. Compile and run the `Main.java` file.
 4. The GUI window will open, showing the contacts on the left and the chat area on the right. Select a contact, type a message, and click **Send**.
